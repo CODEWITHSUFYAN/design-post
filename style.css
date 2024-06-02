@@ -1,0 +1,64 @@
+*{
+
+    font-family: 'poppins','sans-serif';
+
+}
+.left{
+    display: flex;
+   
+   
+ 
+}
+h4{
+    margin-left: 140px;
+    margin-top: 15px;
+    cursor: pointer;
+}
+h4:hover{
+    text-decoration: underline;
+    font-size: 30px;
+}
+#icon{
+    margin-top: 17px;
+    margin-left: 60px;
+    cursor: pointer;
+}
+#icon:hover{
+    font-size: 27px;
+}
+h1{
+    font-weight: bolder;
+    font-size: 60px;
+    margin-left: 150px;
+    line-height: 0;
+    cursor: pointer;
+}
+h1:hover{
+    color: #74C0FC;
+}
+p{
+    line-height: 1.5;
+    margin-left: 150px;
+    cursor: pointer;
+}
+p:hover{
+    font-weight: 600;
+}
+button{
+    margin-left: 150px;
+    cursor: pointer;
+    height: 30px;
+    width: 90px;
+    font-size: 17px;
+    font-weight: bold;
+    border: none;
+    border-radius: 32px;
+}
+button:hover{
+    background-color: black;
+    color: #74C0FC;
+}
+.right{
+    float: right;
+    margin-top: -400px;
+}
